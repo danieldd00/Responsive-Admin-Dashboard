@@ -1,0 +1,4 @@
+- This is an old code project of a Admin Dashboard 
+- Completed November 2023
+- Daniel Dizdarevic
+- This project is fully responsive
